@@ -1,0 +1,2284 @@
+{
+  "todolists": [
+    {
+      "projectName": "山东蓬莱叶片",
+      "type": "自建",
+      "changerA": "刘俊",
+      "changerB": "王渊",
+      "detail1": "前期准备",
+      "status1": true,
+      "status2": true,
+      "status3": true,
+      "status4": true,
+      "status5": true,
+      "status6": true,
+      "status7": false,
+      "status8": false,
+      "detail2": "初步设计",
+      "detail3": "招标",
+      "detail4": "施工",
+      "detail5": "竣工验收",
+      "detail6": "竣工结算",
+      "detail7": "项目运营",
+      "detail8": "备注",
+      "status": false,
+      "id": 1,
+      "isFav": false
+    },
+    {
+      "projectName": "内蒙兴安盟",
+      "type": "自建",
+      "changerA": "王渊",
+      "changerB": "刘源",
+      "detail1": "前期准备",
+      "status1": false,
+      "detail2": "初步设计",
+      "status2": false,
+      "detail3": "招标",
+      "status3": false,
+      "detail4": "施工",
+      "status4": false,
+      "detail5": "竣工验收",
+      "status5": false,
+      "detail6": "竣工结算",
+      "status6": false,
+      "detail7": "项目运营",
+      "status7": false,
+      "detail8": "备注",
+      "status8": false,
+      "status": false,
+      "id": 2,
+      "isFav": false
+    },
+    {
+      "projectName": "吉林通榆",
+      "type": "租赁",
+      "changerA": "刘源",
+      "changerB": "张先林",
+      "detail1": "前期准备",
+      "status1": false,
+      "detail2": "初步设计",
+      "status2": false,
+      "detail3": "招标",
+      "status3": false,
+      "detail4": "施工",
+      "status4": false,
+      "detail5": "竣工验收",
+      "status5": false,
+      "detail6": "竣工结算",
+      "status6": false,
+      "detail7": "项目运营",
+      "status7": false,
+      "detail8": "备注",
+      "status8": false,
+      "status": false,
+      "id": 3,
+      "isFav": false
+    },
+    {
+      "projectName": "山东滨州",
+      "type": "租赁",
+      "changerA": "张先林",
+      "changerB": "刘源",
+      "detail1": "前期准备",
+      "status1": true,
+      "detail2": "初步设计",
+      "status2": true,
+      "detail3": "招标",
+      "status3": true,
+      "detail4": "施工",
+      "status4": true,
+      "detail5": "竣工验收",
+      "status5": false,
+      "detail6": "竣工结算",
+      "status6": false,
+      "detail7": "项目运营",
+      "status7": false,
+      "detail8": "备注",
+      "status8": false,
+      "status": false,
+      "id": 4,
+      "isFav": true
+    },
+    {
+      "projectName": "江苏如东海上",
+      "type": "自建",
+      "changerA": "刘源",
+      "changerB": "王渊",
+      "detail1": "前期准备",
+      "status1": true,
+      "detail2": "初步设计",
+      "status2": true,
+      "detail3": "招标",
+      "status3": false,
+      "detail4": "施工",
+      "status4": false,
+      "detail5": "竣工验收",
+      "status5": false,
+      "detail6": "竣工结算",
+      "status6": false,
+      "detail7": "项目运营",
+      "status7": false,
+      "detail8": "备注",
+      "status8": false,
+      "status": false,
+      "id": 5,
+      "isFav": false
+    },
+    {
+      "projectName": "广东阳江",
+      "type": "租赁",
+      "changerA": "张先林",
+      "changerB": "刘源",
+      "detail1": "前期准备",
+      "status1": true,
+      "detail2": "初步设计",
+      "status2": true,
+      "detail3": "招标",
+      "status3": true,
+      "detail4": "施工",
+      "status4": true,
+      "detail5": "竣工验收",
+      "status5": false,
+      "detail6": "竣工结算",
+      "status6": false,
+      "detail7": "项目运营",
+      "status7": false,
+      "detail8": "备注",
+      "status8": false,
+      "status": false,
+      "id": 6,
+      "isFav": true
+    },
+    {
+      "projectName": "四川盐源",
+      "type": "租赁",
+      "changerA": "刘源",
+      "changerB": "王渊",
+      "detail1": "前期准备",
+      "status1": false,
+      "detail2": "初步设计",
+      "status2": false,
+      "detail3": "招标",
+      "status3": false,
+      "detail4": "施工",
+      "status4": false,
+      "detail5": "竣工验收",
+      "status5": false,
+      "detail6": "竣工结算",
+      "status6": false,
+      "detail7": "项目运营",
+      "status7": false,
+      "detail8": "备注",
+      "status8": false,
+      "status": false,
+      "id": 7,
+      "isFav": false
+    },
+    {
+      "projectName": "海南儋州",
+      "type": "租赁",
+      "changerA": "刘源",
+      "changerB": "王渊",
+      "detail1": "前期准备",
+      "status1": false,
+      "detail2": "初步设计",
+      "status2": false,
+      "detail3": "招标",
+      "status3": false,
+      "detail4": "施工",
+      "status4": false,
+      "detail5": "竣工验收",
+      "status5": false,
+      "detail6": "竣工结算",
+      "status6": false,
+      "detail7": "项目运营",
+      "status7": false,
+      "detail8": "备注",
+      "status8": false,
+      "status": false,
+      "id": 8,
+      "isFav": false
+    },
+    {
+      "projectName": "新疆木垒",
+      "type": "租赁",
+      "changerA": "罗致兴",
+      "changerB": "刘源",
+      "detail1": "前期准备",
+      "status1": false,
+      "detail2": "初步设计",
+      "status2": false,
+      "detail3": "招标",
+      "status3": false,
+      "detail4": "施工",
+      "status4": false,
+      "detail5": "竣工验收",
+      "status5": false,
+      "detail6": "竣工结算",
+      "status6": false,
+      "detail7": "项目运营",
+      "status7": false,
+      "detail8": "备注",
+      "status8": false,
+      "status": false,
+      "id": 9,
+      "isFav": false
+    },
+    {
+      "projectName": "内蒙通辽",
+      "type": "租赁",
+      "changerA": "张先林",
+      "changerB": "刘源",
+      "detail1": "前期准备",
+      "status1": true,
+      "detail2": "初步设计",
+      "status2": false,
+      "detail3": "招标",
+      "status3": false,
+      "detail4": "施工",
+      "status4": false,
+      "detail5": "竣工验收",
+      "status5": false,
+      "detail6": "竣工结算",
+      "status6": false,
+      "detail7": "项目运营",
+      "status7": false,
+      "detail8": "备注",
+      "status8": false,
+      "status": false,
+      "id": 10,
+      "isFav": true
+    },
+    {
+      "projectName": "内蒙乌兰察布",
+      "type": "租赁",
+      "changerA": "刘源",
+      "changerB": "罗致兴",
+      "detail1": "前期准备",
+      "status1": false,
+      "detail2": "初步设计",
+      "status2": false,
+      "detail3": "招标",
+      "status3": false,
+      "detail4": "施工",
+      "status4": false,
+      "detail5": "竣工验收",
+      "status5": false,
+      "detail6": "竣工结算",
+      "status6": false,
+      "detail7": "项目运营",
+      "status7": false,
+      "detail8": "备注",
+      "status8": false,
+      "status": false,
+      "id": 11,
+      "isFav": false
+    },
+    {
+      "projectName": "内蒙托克托",
+      "type": "租赁",
+      "changerA": "罗致兴",
+      "changerB": "刘源",
+      "detail1": "前期准备",
+      "status1": true,
+      "detail2": "初步设计",
+      "status2": true,
+      "detail3": "招标",
+      "status3": false,
+      "detail4": "施工",
+      "status4": false,
+      "detail5": "竣工验收",
+      "status5": false,
+      "detail6": "竣工结算",
+      "status6": false,
+      "detail7": "项目运营",
+      "status7": false,
+      "detail8": "备注",
+      "status8": false,
+      "status": false,
+      "id": 12,
+      "isFav": false
+    },
+    {
+      "projectName": "内蒙包头",
+      "type": "租赁",
+      "changerA": "张先林",
+      "changerB": "刘源",
+      "detail1": "前期准备",
+      "status1": true,
+      "detail2": "初步设计",
+      "status2": false,
+      "detail3": "招标",
+      "status3": false,
+      "detail4": "施工",
+      "status4": false,
+      "detail5": "竣工验收",
+      "status5": false,
+      "detail6": "竣工结算",
+      "status6": false,
+      "detail7": "项目运营",
+      "status7": false,
+      "detail8": "备注",
+      "status8": false,
+      "status": false,
+      "id": 13,
+      "isFav": true
+    },
+    {
+      "projectName": "福建改扩建",
+      "type": "租赁",
+      "changerA": "刘源",
+      "changerB": "张先林",
+      "detail1": "前期准备",
+      "status1": false,
+      "detail2": "初步设计",
+      "status2": false,
+      "detail3": "招标",
+      "status3": false,
+      "detail4": "施工",
+      "status4": false,
+      "detail5": "竣工验收",
+      "status5": false,
+      "detail6": "竣工结算",
+      "status6": false,
+      "detail7": "项目运营",
+      "status7": false,
+      "detail8": "备注",
+      "status8": false,
+      "status": false,
+      "id": 14,
+      "isFav": false
+    },
+    {
+      "projectName": "剑阁改扩建",
+      "type": "租赁",
+      "changerA": "刘源",
+      "changerB": "王渊",
+      "detail1": "前期准备",
+      "status1": false,
+      "detail2": "初步设计",
+      "status2": false,
+      "detail3": "招标",
+      "status3": false,
+      "detail4": "施工",
+      "status4": false,
+      "detail5": "竣工验收",
+      "status5": false,
+      "detail6": "竣工结算",
+      "status6": false,
+      "detail7": "项目运营",
+      "status7": false,
+      "detail8": "备注",
+      "status8": false,
+      "status": false,
+      "id": 15,
+      "isFav": false
+    },
+    {
+      "projectName": "云南文山",
+      "type": "租赁",
+      "changerA": "王渊",
+      "changerB": "张先林",
+      "detail1": "前期准备",
+      "status1": false,
+      "detail2": "初步设计",
+      "status2": false,
+      "detail3": "招标",
+      "status3": false,
+      "detail4": "施工",
+      "status4": false,
+      "detail5": "竣工验收",
+      "status5": false,
+      "detail6": "竣工结算",
+      "status6": false,
+      "detail7": "项目运营",
+      "status7": false,
+      "detail8": "备注",
+      "status8": false,
+      "status": false,
+      "id": 16,
+      "isFav": false
+    }
+  ],
+  "overview": [
+    {
+      "id": 1,
+      "contractDay": "2022-03-25",
+      "contractNo": "DEW5245DADAD",
+      "contractDuration": 360,
+      "projectPlace": "山东蓬莱叶片",
+      "totalPrice": 125000,
+      "constructionContent": "1、厂房;2、设备;3、环保设备;4、安全设备、5、消防设置;6、办公楼;7、其他",
+      "Lessor": "龙马重工",
+      "investment": 100000000,
+      "economicPerformance": 25125851,
+      "hetongfenjiebiao": "",
+      "xiangguanfang": ""
+    },
+    {
+      "id": 2,
+      "contractDay": "2022-03-25",
+      "contractNo": "DEW5245DADAD",
+      "contractDuration": 360,
+      "projectPlace": "山东蓬莱叶片",
+      "totalPrice": 125000,
+      "constructionContent": "1、厂房;2、设备;3、环保设备;4、安全设备、5、消防设置;6、办公楼;7、其他",
+      "Lessor": "龙马重工",
+      "investment": 100000000,
+      "economicPerformance": 25125851,
+      "hetongfenjiebiao": "",
+      "xiangguanfang": ""
+    },
+    {
+      "id": 3,
+      "contractDay": "2022-03-25",
+      "contractNo": "DEW5245DADAD",
+      "contractDuration": 360,
+      "projectPlace": "山东蓬莱叶片",
+      "totalPrice": 125000,
+      "constructionContent": "1、厂房;2、设备;3、环保设备;4、安全设备、5、消防设置;6、办公楼;7、其他",
+      "Lessor": "龙马重工",
+      "investment": 100000000,
+      "economicPerformance": 25125851,
+      "hetongfenjiebiao": "",
+      "xiangguanfang": ""
+    },
+    {
+      "id": 4,
+      "contractDay": "2022-03-25",
+      "contractNo": "待定",
+      "contractDuration": "120",
+      "projectPlace": "山东滨州",
+      "totalPrice": "待定",
+      "constructionContent": "租赁厂房、办公室",
+      "Lessor": "龙马重工",
+      "investment": "待定",
+      "economicPerformance": "300万/年",
+      "hetongfenjiebiao": "",
+      "xiangguanfang": ""
+    },
+    {
+      "id": 5,
+      "contractDay": "2022-03-25",
+      "contractNo": "待定",
+      "contractDuration": 360,
+      "projectPlace": "江苏如东",
+      "totalPrice": "待定",
+      "constructionContent": "1、厂房;2、设备;3、环保设备;4、安全设备、5、消防设置;6、办公楼;7、其他",
+      "Lessor": "自建",
+      "investment": "1.2亿",
+      "economicPerformance": "500万/年",
+      "hetongfenjiebiao": "",
+      "xiangguanfang": ""
+    },
+    {
+      "id": 6,
+      "contractDay": "2022-03-25",
+      "contractNo": "待租赁协议签订",
+      "contractDuration": "120",
+      "projectPlace": "广东阳江",
+      "totalPrice": "租赁协议",
+      "constructionContent": "厂房、办公室",
+      "Lessor": "龙马重工",
+      "investment": "待定",
+      "economicPerformance": "待定",
+      "hetongfenjiebiao": "",
+      "xiangguanfang": ""
+    },
+    {
+      "id": 7,
+      "contractDay": "2022-03-25",
+      "contractNo": "DEW5245DADAD",
+      "contractDuration": 360,
+      "projectPlace": "山东",
+      "totalPrice": 125000,
+      "constructionContent": "1、厂房;2、设备;3、环保设备;4、安全设备、5、消防设置;6、办公楼;7、其他",
+      "Lessor": "龙马重工",
+      "investment": 100000000,
+      "economicPerformance": 25125851,
+      "hetongfenjiebiao": "",
+      "xiangguanfang": ""
+    },
+    {
+      "id": 8,
+      "contractDay": "2022-03-25",
+      "contractNo": "DEW5245DADAD",
+      "contractDuration": 360,
+      "projectPlace": "山东",
+      "totalPrice": 125000,
+      "constructionContent": "1、厂房;2、设备;3、环保设备;4、安全设备、5、消防设置;6、办公楼;7、其他",
+      "Lessor": "龙马重工",
+      "investment": 100000000,
+      "economicPerformance": 25125851,
+      "hetongfenjiebiao": "",
+      "xiangguanfang": ""
+    },
+    {
+      "id": 9,
+      "contractDay": "2022-03-25",
+      "contractNo": "DEW5245DADAD",
+      "contractDuration": 360,
+      "projectPlace": "山东",
+      "totalPrice": 125000,
+      "constructionContent": "1、厂房;2、设备;3、环保设备;4、安全设备、5、消防设置;6、办公楼;7、其他",
+      "Lessor": "龙马重工",
+      "investment": 100000000,
+      "economicPerformance": 25125851,
+      "hetongfenjiebiao": "",
+      "xiangguanfang": ""
+    },
+    {
+      "id": 10,
+      "contractDay": "2022-03-24",
+      "contractNo": "待定",
+      "contractDuration": "待定",
+      "projectPlace": "内蒙通辽",
+      "totalPrice": "待定",
+      "constructionContent": "1、厂房;2、设备;3、环保设备;4、安全设备、5、消防设置;6、办公楼;7、其他",
+      "Lessor": "龙马重工",
+      "investment": "待定",
+      "economicPerformance": "待定",
+      "hetongfenjiebiao": "待定",
+      "xiangguanfang": "待定"
+    },
+    {
+      "id": 11,
+      "contractDay": "2022-03-25",
+      "contractNo": "DEW5245DADAD",
+      "contractDuration": 360,
+      "projectPlace": "山东",
+      "totalPrice": 125000,
+      "constructionContent": "1、厂房;2、设备;3、环保设备;4、安全设备、5、消防设置;6、办公楼;7、其他",
+      "Lessor": "龙马重工",
+      "investment": 100000000,
+      "economicPerformance": 25125851,
+      "hetongfenjiebiao": "",
+      "xiangguanfang": ""
+    },
+    {
+      "id": 12,
+      "contractDay": "待签订",
+      "contractNo": "----",
+      "contractDuration": "待定",
+      "projectPlace": "内蒙呼市",
+      "totalPrice": "待定",
+      "constructionContent": "厂房、设备、环保、安全设施、消防设置、办公楼、暖通",
+      "Lessor": "东汽置业",
+      "investment": "待定",
+      "economicPerformance": "待定",
+      "hetongfenjiebiao": "",
+      "xiangguanfang": "东汽置业"
+    },
+    {
+      "id": 13,
+      "contractDay": "待签订",
+      "contractNo": "----",
+      "contractDuration": "待定",
+      "projectPlace": "内蒙包头",
+      "totalPrice": "待定",
+      "constructionContent": "厂房、设备、环保、安全设施、消防设置、办公楼、暖通",
+      "Lessor": "龙马",
+      "investment": "待定",
+      "economicPerformance": "待定",
+      "hetongfenjiebiao": "",
+      "xiangguanfang": "东汽置业"
+    },
+    {
+      "id": 14,
+      "contractDay": "待签订",
+      "contractNo": "----",
+      "contractDuration": "待定",
+      "projectPlace": "内蒙呼市",
+      "totalPrice": "待定",
+      "constructionContent": "厂房、设备、环保、安全设施、消防设置、办公楼、暖通",
+      "Lessor": "东汽置业",
+      "investment": "待定",
+      "economicPerformance": "待定",
+      "hetongfenjiebiao": "",
+      "xiangguanfang": "东汽置业"
+    },
+    {
+      "id": 15,
+      "contractDay": "待签订",
+      "contractNo": "----",
+      "contractDuration": "待定",
+      "projectPlace": "内蒙呼市",
+      "totalPrice": "待定",
+      "constructionContent": "厂房、设备、环保、安全设施、消防设置、办公楼、暖通",
+      "Lessor": "东汽置业",
+      "investment": "待定",
+      "economicPerformance": "待定",
+      "hetongfenjiebiao": "",
+      "xiangguanfang": "东汽置业"
+    },
+    {
+      "contractDay": "2022/3/23 16:09:54",
+      "contractNo": "DEW***",
+      "contractDuration": 360,
+      "projectPlace": "**",
+      "totalPrice": 125000,
+      "constructionContent": "**",
+      "Lessor": "龙马重工",
+      "investment": 100000000,
+      "economicPerformance": 25125851,
+      "hetongfenjiebiao": "",
+      "xiangguanfang": "",
+      "id": 16
+    }
+  ],
+  "projectTimeline": [
+    {
+      "id": 1,
+      "items": [
+        {
+          "id": "1",
+          "day": "2022-03-30",
+          "keyponit": "改造方案讨论会-建议方案、备选方案",
+          "output": "会议纪要",
+          "qiantoudanwei": "工程建设部",
+          "canyurenyuan": "钱华、孙小明、李万楷、周如林、刘俊、王渊、张先林、赵登明"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "items": [
+        {
+          "id": 1,
+          "day": "2022-03-21",
+          "keyponit": "发送电子技术要求",
+          "output": "技术文件",
+          "qiantoudanwei": "工程建设部",
+          "canyurenyuan": "刘源、张先林等"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "items": [
+        {
+          "id": 1,
+          "day": "2022-03-21",
+          "keyponit": "发送电子技术要求",
+          "output": "技术文件",
+          "qiantoudanwei": "工程建设部",
+          "canyurenyuan": "刘源、张先林等"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "items": [
+        {
+          "id": "1",
+          "day": "2022-03-25",
+          "keyponit": "施工计划、目前节点",
+          "output": "厂房已完成，待吊车排产及地面施工，风电技术协议",
+          "qiantoudanwei": "工程建设部",
+          "canyurenyuan": "张先林、刘源、龙马-贾爱学"
+        },
+        {
+          "id": 2,
+          "day": "2022-03-28",
+          "keyponit": "吊车排产(兰总协调龙马吊车高管)",
+          "output": "预计6月产出吊车",
+          "qiantoudanwei": "工程建设部",
+          "canyurenyuan": "兰总、刘源、张先林"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "items": [
+        {
+          "id": 1,
+          "day": "2022-03-21",
+          "keyponit": "发送电子技术要求",
+          "output": "技术文件",
+          "qiantoudanwei": "工程建设部",
+          "canyurenyuan": "刘源、张先林等"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "items": [
+        {
+          "id": 1,
+          "day": "2022-03-24",
+          "keyponit": "机型、产能联系单",
+          "output": "租赁技术协议",
+          "qiantoudanwei": "资源与工程",
+          "canyurenyuan": "夏清浩、刘源、张先林、钱华"
+        },
+        {
+          "id": 2,
+          "day": "2022-03-25",
+          "keyponit": "施工计划、吊车进度",
+          "output": "厂房已完成，待技术协议、租赁协议",
+          "qiantoudanwei": "工程建设部",
+          "canyurenyuan": "张先林、刘源、高学爱"
+        },
+        {
+          "id": "3",
+          "day": "2022-03-28",
+          "keyponit": "租赁协议合规性审查",
+          "output": "租赁协议修正-租金说法/履约保证金；签订租赁合同；付款条件；资源、订单转化条件明确。",
+          "qiantoudanwei": "工程建设部",
+          "canyurenyuan": "王渊、张先林、夏清浩"
+        },
+        {
+          "id": "4",
+          "day": "2022-03-28",
+          "keyponit": "技术协议讨论",
+          "output": "技术协议草稿并发龙马",
+          "qiantoudanwei": "工程建设部",
+          "canyurenyuan": "钱华、孙小明、刘源、张先林"
+        },
+        {
+          "id": "5",
+          "day": "2022-03-30",
+          "keyponit": "龙马回复技术协议",
+          "output": "吊车3台，技术协议5台/降温、除湿设备由我司安装/隔断到顶不处理/地坪为混凝土/无压缩空气/倒班宿舍新签协议",
+          "qiantoudanwei": "工程建设部",
+          "canyurenyuan": "高学爱"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "items": [
+        {
+          "id": 1,
+          "day": "2022-03-21",
+          "keyponit": "发送电子技术要求",
+          "output": "技术文件",
+          "qiantoudanwei": "工程建设部",
+          "canyurenyuan": "刘源、张先林等"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "items": [
+        {
+          "id": 1,
+          "day": "2022-03-21",
+          "keyponit": "发送电子技术要求",
+          "output": "技术文件",
+          "qiantoudanwei": "工程建设部",
+          "canyurenyuan": "刘源、张先林等"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "items": [
+        {
+          "id": 1,
+          "day": "2022-03-21",
+          "keyponit": "发送电子技术要求",
+          "output": "技术文件",
+          "qiantoudanwei": "工程建设部",
+          "canyurenyuan": "刘源、张先林等"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "id": 1,
+          "day": "2022-03-24",
+          "keyponit": "机型、产能联系单",
+          "output": "租赁技术协议",
+          "qiantoudanwei": "资源与工程",
+          "canyurenyuan": "夏清浩、刘源、张先林、钱华"
+        },
+        {
+          "id": 2,
+          "day": "2022-03-28",
+          "keyponit": "租赁协议合规性审查",
+          "output": "租赁协议修正-租金说法/履约保证金；签订租赁合同；付款条件；厂房交付要求。",
+          "qiantoudanwei": "工程建设部",
+          "canyurenyuan": "王渊、张先林、夏清浩"
+        },
+        {
+          "id": "3",
+          "day": "2022-03-28",
+          "keyponit": "技术协议讨论",
+          "output": "技术协议草稿并发龙马",
+          "qiantoudanwei": "工程建设部",
+          "canyurenyuan": "钱华、孙小明、刘源、张先林"
+        },
+        {
+          "id": "4",
+          "day": "2022-03-30",
+          "keyponit": "龙马回复技术协议意见",
+          "output": "吊车按租赁协议4台，我司要求6台/倒班宿舍另签协议/无压缩空气/混凝土地面磨光后做固化处理",
+          "qiantoudanwei": "工程建设部",
+          "canyurenyuan": "高学爱"
+        }
+      ],
+      "id": 10
+    },
+    {
+      "id": 11,
+      "items": [
+        {
+          "id": 1,
+          "day": "2022-03-21",
+          "keyponit": "发送电子技术要求",
+          "output": "技术文件",
+          "qiantoudanwei": "工程建设部",
+          "canyurenyuan": "刘源、张先林等"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "items": [
+        {
+          "id": 1,
+          "day": "2022-03-22",
+          "keyponit": "产业落地会",
+          "output": "会议纪要，东方诉求、用地要求等",
+          "qiantoudanwei": "工程建设部",
+          "canyurenyuan": "王渊、张先林等"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "items": [
+        {
+          "id": "1",
+          "day": "2022-03-24",
+          "keyponit": "机型、产能联系单",
+          "output": "租赁技术协议",
+          "qiantoudanwei": "资源与工程",
+          "canyurenyuan": "夏清浩、刘源、张先林、钱华"
+        },
+        {
+          "id": 2,
+          "day": "2022-03-28",
+          "keyponit": "租赁协议合规性审查",
+          "output": "租赁协议修正-租金说法/履约保证金；签订租赁合同；付款条件；厂房交付要求。",
+          "qiantoudanwei": "工程建设部",
+          "canyurenyuan": "王渊、张先林、夏清浩"
+        },
+        {
+          "id": "3",
+          "day": "2022-03-28",
+          "keyponit": "技术协议讨论",
+          "output": "技术协议草稿并发龙马",
+          "qiantoudanwei": "工程建设部",
+          "canyurenyuan": "钱华、孙小明、刘源、张先林"
+        },
+        {
+          "id": "4",
+          "day": "2022-03-30",
+          "keyponit": "龙马回复技术协议",
+          "output": "吊车按租赁协议4台，我司要求6台/倒班宿舍另签协议/无压缩空气/混凝土地面磨光后做固化处理",
+          "qiantoudanwei": "工程建设部、龙马",
+          "canyurenyuan": "高学爱"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "items": [
+        {
+          "id": 1,
+          "day": "2022-03-22",
+          "keyponit": "产业落地会",
+          "output": "会议纪要，东方诉求、用地要求等",
+          "qiantoudanwei": "工程建设部",
+          "canyurenyuan": "王渊、张先林等"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "items": [
+        {
+          "id": 1,
+          "day": "2022-03-22",
+          "keyponit": "产业落地会",
+          "output": "会议纪要，东方诉求、用地要求等",
+          "qiantoudanwei": "工程建设部",
+          "canyurenyuan": "王渊、张先林等"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "day": "2022-03-21",
+          "keyponit": "发送电子技术要求",
+          "output": "技术文件",
+          "qiantoudanwei": "工程建设部",
+          "canyurenyuan": "刘源、张先林等"
+        }
+      ],
+      "id": 16
+    }
+  ],
+  "xiangmubaojianKeyPoint": [
+    {
+      "id": 1,
+      "items": [
+        {
+          "id": 1,
+          "name": "",
+          "day": "2022-03-22",
+          "remark": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "items": [
+        {
+          "id": 1,
+          "name": "",
+          "day": "2022-03-22",
+          "remark": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "items": [
+        {
+          "id": 1,
+          "name": "",
+          "day": "2022-03-22",
+          "remark": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "items": [
+        {
+          "id": 1,
+          "name": "土地使用",
+          "day": "2022-03-01",
+          "remark": "征地"
+        },
+        {
+          "id": 2,
+          "name": "政府审批",
+          "day": "2022-03-11",
+          "remark": "履行手续"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "items": [
+        {
+          "id": 1,
+          "name": "",
+          "day": "2022-03-22",
+          "remark": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "items": [
+        {
+          "id": 1,
+          "name": "土地使用",
+          "day": "2022-03-01",
+          "remark": "征地"
+        },
+        {
+          "id": 2,
+          "name": "政府审批",
+          "day": "2022-03-11",
+          "remark": "履行手续"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "items": [
+        {
+          "id": 1,
+          "name": "",
+          "day": "2022-03-22",
+          "remark": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "items": [
+        {
+          "id": 1,
+          "name": "",
+          "day": "2022-03-22",
+          "remark": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "items": [
+        {
+          "id": 1,
+          "name": "",
+          "day": "2022-03-22",
+          "remark": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "items": [
+        {
+          "id": 1,
+          "name": "",
+          "day": "2022-03-22",
+          "remark": ""
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "items": [
+        {
+          "id": 1,
+          "name": "",
+          "day": "2022-03-22",
+          "remark": ""
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "items": [
+        {
+          "id": 1,
+          "name": "土地事宜",
+          "day": "2022-03-30",
+          "remark": "征地完成"
+        },
+        {
+          "id": 2,
+          "name": "动工建设",
+          "day": "2022-04-10",
+          "remark": "临时用水、电、气等技术要求"
+        },
+        {
+          "id": 3,
+          "name": "风资源、订单支持",
+          "day": "2022-04-10",
+          "remark": "开标项目协调,工厂长期运行所需订单支撑"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "items": [
+        {
+          "id": 1,
+          "name": "",
+          "day": "2022-03-22",
+          "remark": ""
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "items": [
+        {
+          "id": 1,
+          "name": "",
+          "day": "2022-03-22",
+          "remark": ""
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "items": [
+        {
+          "id": 1,
+          "name": "",
+          "day": "2022-03-22",
+          "remark": ""
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "name": "",
+          "day": "2022-03-01",
+          "remark": "征地"
+        }
+      ],
+      "id": 16
+    }
+  ],
+  "gongchengyanshou": [
+    {
+      "id": 1,
+      "items": [
+        {
+          "id": 1,
+          "name": "土地使用",
+          "day": "2022-03-01",
+          "remark": "征地"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "items": [
+        {
+          "id": 1,
+          "name": "土地使用",
+          "day": "2022-03-01",
+          "remark": "征地"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "items": [
+        {
+          "id": 1,
+          "name": "土地使用",
+          "day": "2022-03-01",
+          "remark": "征地"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "items": [
+        {
+          "id": 1,
+          "name": "验收项目1",
+          "day": "2022-03-01",
+          "remark": "验收项目1"
+        },
+        {
+          "id": 2,
+          "name": "验收项目2",
+          "day": "2022-03-11",
+          "remark": "验收项目2"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "items": [
+        {
+          "id": 1,
+          "name": "验收项目1",
+          "day": "2022-03-01",
+          "remark": "验收项目1"
+        },
+        {
+          "id": 2,
+          "name": "验收项目2",
+          "day": "2022-03-11",
+          "remark": "验收项目2"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "items": [
+        {
+          "id": 1,
+          "name": "验收项目1",
+          "day": "2022-03-01",
+          "remark": "验收项目1"
+        },
+        {
+          "id": 2,
+          "name": "验收项目2",
+          "day": "2022-03-11",
+          "remark": "验收项目2"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "items": [
+        {
+          "id": 1,
+          "name": "验收项目1",
+          "day": "2022-03-01",
+          "remark": "验收项目1"
+        },
+        {
+          "id": 2,
+          "name": "验收项目2",
+          "day": "2022-03-11",
+          "remark": "验收项目2"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "items": [
+        {
+          "id": 1,
+          "name": "验收项目1",
+          "day": "2022-03-01",
+          "remark": "验收项目1"
+        },
+        {
+          "id": 2,
+          "name": "验收项目2",
+          "day": "2022-03-11",
+          "remark": "验收项目2"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "items": [
+        {
+          "id": 1,
+          "name": "验收项目1",
+          "day": "2022-03-01",
+          "remark": "验收项目1"
+        },
+        {
+          "id": 2,
+          "name": "验收项目2",
+          "day": "2022-03-11",
+          "remark": "验收项目2"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "items": [
+        {
+          "id": 1,
+          "name": "验收项目1",
+          "day": "2022-03-01",
+          "remark": "验收项目1"
+        },
+        {
+          "id": 2,
+          "name": "验收项目2",
+          "day": "2022-03-11",
+          "remark": "验收项目2"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "items": [
+        {
+          "id": 1,
+          "name": "验收项目1",
+          "day": "2022-03-01",
+          "remark": "验收项目1"
+        },
+        {
+          "id": 2,
+          "name": "验收项目2",
+          "day": "2022-03-11",
+          "remark": "验收项目2"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "items": [
+        {
+          "id": 1,
+          "name": "验收项目1",
+          "day": "2022-03-01",
+          "remark": "验收项目1"
+        },
+        {
+          "id": 2,
+          "name": "验收项目2",
+          "day": "2022-03-11",
+          "remark": "验收项目2"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "items": [
+        {
+          "id": 1,
+          "name": "验收项目1",
+          "day": "2022-03-01",
+          "remark": "验收项目1"
+        },
+        {
+          "id": 2,
+          "name": "验收项目2",
+          "day": "2022-03-11",
+          "remark": "验收项目2"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "items": [
+        {
+          "id": 1,
+          "name": "验收项目1",
+          "day": "2022-03-01",
+          "remark": "验收项目1"
+        },
+        {
+          "id": 2,
+          "name": "验收项目2",
+          "day": "2022-03-11",
+          "remark": "验收项目2"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "items": [
+        {
+          "id": 1,
+          "name": "验收项目1",
+          "day": "2022-03-01",
+          "remark": "验收项目1"
+        },
+        {
+          "id": 2,
+          "name": "验收项目2",
+          "day": "2022-03-11",
+          "remark": "验收项目2"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "items": [
+        {
+          "id": 1,
+          "name": "验收项目1",
+          "day": "2022-03-01",
+          "remark": "验收项目1"
+        },
+        {
+          "id": 2,
+          "name": "验收项目2",
+          "day": "2022-03-11",
+          "remark": "验收项目2"
+        }
+      ]
+    }
+  ],
+  "zonghejungong": [
+    {
+      "id": 1,
+      "items": [
+        {
+          "item0": "竣工结算审计",
+          "day0": "2022-03-22",
+          "remark0": "",
+          "item1": "竣工结算审计",
+          "day1": "2022-03-22",
+          "remark1": "",
+          "item2": "竣工结算审计",
+          "day2": "2022-03-22",
+          "remark2": "",
+          "item3": "竣工结算审计",
+          "day3": "2022-03-22",
+          "remark3": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "items": [
+        {
+          "item0": "竣工结算审计",
+          "day0": "2022-03-22",
+          "remark0": "",
+          "item1": "竣工结算审计",
+          "day1": "2022-03-22",
+          "remark1": "",
+          "item2": "竣工结算审计",
+          "day2": "2022-03-22",
+          "remark2": "",
+          "item3": "竣工结算审计",
+          "day3": "2022-03-22",
+          "remark3": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "items": [
+        {
+          "item0": "竣工结算审计",
+          "day0": "2022-03-22",
+          "remark0": "",
+          "item1": "竣工结算审计",
+          "day1": "2022-03-22",
+          "remark1": "",
+          "item2": "竣工结算审计",
+          "day2": "2022-03-22",
+          "remark2": "",
+          "item3": "竣工结算审计",
+          "day3": "2022-03-22",
+          "remark3": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "items": [
+        {
+          "item0": "竣工结算审计",
+          "day0": "2022-03-22",
+          "remark0": "",
+          "item1": "财务决算",
+          "day1": "2022-03-22",
+          "remark1": "",
+          "item2": "财务决算审计",
+          "day2": "2022-03-22",
+          "remark2": "",
+          "item3": "综合竣工验收报告",
+          "day3": "2022-03-22",
+          "remark3": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "items": [
+        {
+          "item0": "竣工结算审计",
+          "day0": "2022-03-22",
+          "remark0": "",
+          "item1": "财务决算",
+          "day1": "2022-03-22",
+          "remark1": "",
+          "item2": "财务决算审计",
+          "day2": "2022-03-22",
+          "remark2": "",
+          "item3": "综合竣工验收报告",
+          "day3": "2022-03-22",
+          "remark3": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "items": [
+        {
+          "item0": "竣工结算审计",
+          "day0": "2022-8-22",
+          "remark0": "",
+          "item1": "财务决算",
+          "day1": "2022-9-22",
+          "remark1": "",
+          "item2": "财务决算审计",
+          "day2": "2022-10-22",
+          "remark2": "",
+          "item3": "综合竣工验收报告",
+          "day3": "2022-11-22",
+          "remark3": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "items": [
+        {
+          "item0": "竣工结算审计",
+          "day0": "2022-8-22",
+          "remark0": "",
+          "item1": "财务决算",
+          "day1": "2022-9-22",
+          "remark1": "",
+          "item2": "财务决算审计",
+          "day2": "2022-10-22",
+          "remark2": "",
+          "item3": "综合竣工验收报告",
+          "day3": "2022-11-22",
+          "remark3": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "items": [
+        {
+          "item0": "竣工结算审计",
+          "day0": "2022-8-22",
+          "remark0": "",
+          "item1": "财务决算",
+          "day1": "2022-9-22",
+          "remark1": "",
+          "item2": "财务决算审计",
+          "day2": "2022-10-22",
+          "remark2": "",
+          "item3": "综合竣工验收报告",
+          "day3": "2022-11-22",
+          "remark3": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "items": [
+        {
+          "item0": "竣工结算审计",
+          "day0": "2022-8-22",
+          "remark0": "",
+          "item1": "财务决算",
+          "day1": "2022-9-22",
+          "remark1": "",
+          "item2": "财务决算审计",
+          "day2": "2022-10-22",
+          "remark2": "",
+          "item3": "综合竣工验收报告",
+          "day3": "2022-11-22",
+          "remark3": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "items": [
+        {
+          "item0": "竣工结算审计",
+          "day0": "2022-8-22",
+          "remark0": "",
+          "item1": "财务决算",
+          "day1": "2022-9-22",
+          "remark1": "",
+          "item2": "财务决算审计",
+          "day2": "2022-10-22",
+          "remark2": "",
+          "item3": "综合竣工验收报告",
+          "day3": "2022-11-22",
+          "remark3": ""
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "items": [
+        {
+          "item0": "竣工结算审计",
+          "day0": "2022-8-22",
+          "remark0": "",
+          "item1": "财务决算",
+          "day1": "2022-9-22",
+          "remark1": "",
+          "item2": "财务决算审计",
+          "day2": "2022-10-22",
+          "remark2": "",
+          "item3": "综合竣工验收报告",
+          "day3": "2022-11-22",
+          "remark3": ""
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "items": [
+        {
+          "item0": "竣工结算审计",
+          "day0": "2022-8-22",
+          "remark0": "",
+          "item1": "财务决算",
+          "day1": "2022-9-22",
+          "remark1": "",
+          "item2": "财务决算审计",
+          "day2": "2022-10-22",
+          "remark2": "",
+          "item3": "综合竣工验收报告",
+          "day3": "2022-11-22",
+          "remark3": ""
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "items": [
+        {
+          "item0": "竣工结算审计",
+          "day0": "2022-8-22",
+          "remark0": "",
+          "item1": "财务决算",
+          "day1": "2022-9-22",
+          "remark1": "",
+          "item2": "财务决算审计",
+          "day2": "2022-10-22",
+          "remark2": "",
+          "item3": "综合竣工验收报告",
+          "day3": "2022-11-22",
+          "remark3": ""
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "items": [
+        {
+          "item0": "竣工结算审计",
+          "day0": "2022-8-22",
+          "remark0": "",
+          "item1": "财务决算",
+          "day1": "2022-9-22",
+          "remark1": "",
+          "item2": "财务决算审计",
+          "day2": "2022-10-22",
+          "remark2": "",
+          "item3": "综合竣工验收报告",
+          "day3": "2022-11-22",
+          "remark3": ""
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "items": [
+        {
+          "item0": "竣工结算审计",
+          "day0": "2022-8-22",
+          "remark0": "",
+          "item1": "财务决算",
+          "day1": "2022-9-22",
+          "remark1": "",
+          "item2": "财务决算审计",
+          "day2": "2022-10-22",
+          "remark2": "",
+          "item3": "综合竣工验收报告",
+          "day3": "2022-11-22",
+          "remark3": ""
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "items": [
+        {
+          "item0": "竣工结算审计",
+          "day0": "2022-8-22",
+          "remark0": "",
+          "item1": "财务决算",
+          "day1": "2022-9-22",
+          "remark1": "",
+          "item2": "财务决算审计",
+          "day2": "2022-10-22",
+          "remark2": "",
+          "item3": "综合竣工验收报告",
+          "day3": "2022-11-22",
+          "remark3": ""
+        }
+      ]
+    }
+  ],
+  "jianshetouziqingkuang": [
+    {
+      "id": 1,
+      "total": 11000,
+      "items": [
+        {
+          "name": "",
+          "contractTotal": 52,
+          "remark": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "total": 11000,
+      "items": [
+        {
+          "name": "",
+          "contractTotal": 52,
+          "remark": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "total": 11000,
+      "items": [
+        {
+          "name": "",
+          "contractTotal": 52,
+          "remark": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "total": 2200,
+      "items": [
+        {
+          "name": "土建",
+          "contractTotal": 200,
+          "remark": ""
+        },
+        {
+          "name": "钢结构",
+          "contractTotal": 400,
+          "remark": ""
+        },
+        {
+          "name": "设备",
+          "contractTotal": 1000,
+          "remark": ""
+        },
+        {
+          "name": "办公区域",
+          "contractTotal": 100,
+          "remark": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "total": 2200,
+      "items": [
+        {
+          "name": "土建",
+          "contractTotal": 200,
+          "remark": ""
+        },
+        {
+          "name": "钢结构",
+          "contractTotal": 400,
+          "remark": ""
+        },
+        {
+          "name": "设备",
+          "contractTotal": 1000,
+          "remark": ""
+        },
+        {
+          "name": "办公区域",
+          "contractTotal": 100,
+          "remark": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "total": 3200,
+      "items": [
+        {
+          "name": "土建",
+          "contractTotal": 400,
+          "remark": ""
+        },
+        {
+          "name": "钢结构",
+          "contractTotal": 600,
+          "remark": ""
+        },
+        {
+          "name": "设备",
+          "contractTotal": 1200,
+          "remark": ""
+        },
+        {
+          "name": "办公区域",
+          "contractTotal": 150,
+          "remark": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "total": 3200,
+      "items": [
+        {
+          "name": "土建",
+          "contractTotal": 400,
+          "remark": ""
+        },
+        {
+          "name": "钢结构",
+          "contractTotal": 600,
+          "remark": ""
+        },
+        {
+          "name": "设备",
+          "contractTotal": 1200,
+          "remark": ""
+        },
+        {
+          "name": "办公区域",
+          "contractTotal": 150,
+          "remark": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "total": 3200,
+      "items": [
+        {
+          "name": "土建",
+          "contractTotal": 400,
+          "remark": ""
+        },
+        {
+          "name": "钢结构",
+          "contractTotal": 600,
+          "remark": ""
+        },
+        {
+          "name": "设备",
+          "contractTotal": 1200,
+          "remark": ""
+        },
+        {
+          "name": "办公区域",
+          "contractTotal": 150,
+          "remark": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "total": 3200,
+      "items": [
+        {
+          "name": "土建",
+          "contractTotal": 400,
+          "remark": ""
+        },
+        {
+          "name": "钢结构",
+          "contractTotal": 600,
+          "remark": ""
+        },
+        {
+          "name": "设备",
+          "contractTotal": 1200,
+          "remark": ""
+        },
+        {
+          "name": "办公区域",
+          "contractTotal": 150,
+          "remark": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "total": 3200,
+      "items": [
+        {
+          "name": "土建",
+          "contractTotal": 400,
+          "remark": ""
+        },
+        {
+          "name": "钢结构",
+          "contractTotal": 600,
+          "remark": ""
+        },
+        {
+          "name": "设备",
+          "contractTotal": 1200,
+          "remark": ""
+        },
+        {
+          "name": "办公区域",
+          "contractTotal": 150,
+          "remark": ""
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "total": 3200,
+      "items": [
+        {
+          "name": "土建",
+          "contractTotal": 400,
+          "remark": ""
+        },
+        {
+          "name": "钢结构",
+          "contractTotal": 600,
+          "remark": ""
+        },
+        {
+          "name": "设备",
+          "contractTotal": 1200,
+          "remark": ""
+        },
+        {
+          "name": "办公区域",
+          "contractTotal": 150,
+          "remark": ""
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "total": 3200,
+      "items": [
+        {
+          "name": "土建",
+          "contractTotal": 400,
+          "remark": ""
+        },
+        {
+          "name": "钢结构",
+          "contractTotal": 600,
+          "remark": ""
+        },
+        {
+          "name": "设备",
+          "contractTotal": 1200,
+          "remark": ""
+        },
+        {
+          "name": "办公区域",
+          "contractTotal": 150,
+          "remark": ""
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "total": 3200,
+      "items": [
+        {
+          "name": "土建",
+          "contractTotal": 400,
+          "remark": ""
+        },
+        {
+          "name": "钢结构",
+          "contractTotal": 600,
+          "remark": ""
+        },
+        {
+          "name": "设备",
+          "contractTotal": 1200,
+          "remark": ""
+        },
+        {
+          "name": "办公区域",
+          "contractTotal": 150,
+          "remark": ""
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "total": 3200,
+      "items": [
+        {
+          "name": "土建",
+          "contractTotal": 400,
+          "remark": ""
+        },
+        {
+          "name": "钢结构",
+          "contractTotal": 600,
+          "remark": ""
+        },
+        {
+          "name": "设备",
+          "contractTotal": 1200,
+          "remark": ""
+        },
+        {
+          "name": "办公区域",
+          "contractTotal": 150,
+          "remark": ""
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "total": 3200,
+      "items": [
+        {
+          "name": "土建",
+          "contractTotal": 400,
+          "remark": ""
+        },
+        {
+          "name": "钢结构",
+          "contractTotal": 600,
+          "remark": ""
+        },
+        {
+          "name": "设备",
+          "contractTotal": 1200,
+          "remark": ""
+        },
+        {
+          "name": "办公区域",
+          "contractTotal": 150,
+          "remark": ""
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "total": 3200,
+      "items": [
+        {
+          "name": "土建",
+          "contractTotal": 400,
+          "remark": ""
+        },
+        {
+          "name": "钢结构",
+          "contractTotal": 600,
+          "remark": ""
+        },
+        {
+          "name": "设备",
+          "contractTotal": 1200,
+          "remark": ""
+        },
+        {
+          "name": "办公区域",
+          "contractTotal": 150,
+          "remark": ""
+        }
+      ]
+    }
+  ],
+  "zhucezijindaozhangqingkuang": [
+    {
+      "id": 1,
+      "items": [
+        {
+          "day": "2022-03-22",
+          "count": 150000,
+          "remark": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "items": [
+        {
+          "day": "2022-03-22",
+          "count": 150000,
+          "remark": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "items": [
+        {
+          "day": "2022-03-22",
+          "count": 150000,
+          "remark": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "items": [
+        {
+          "day": "2022-03-22",
+          "count": 150000,
+          "remark": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "items": [
+        {
+          "day": "2022-03-22",
+          "count": 150000,
+          "remark": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "items": [
+        {
+          "day": "2022-03-22",
+          "count": 150000,
+          "remark": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "items": [
+        {
+          "day": "2022-03-22",
+          "count": 150000,
+          "remark": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "items": [
+        {
+          "day": "2022-03-22",
+          "count": 150000,
+          "remark": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "items": [
+        {
+          "day": "2022-03-22",
+          "count": 150000,
+          "remark": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "items": [
+        {
+          "day": "2022-03-22",
+          "count": 150000,
+          "remark": ""
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "items": [
+        {
+          "day": "2022-03-22",
+          "count": 150000,
+          "remark": ""
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "items": [
+        {
+          "day": "2022-03-22",
+          "count": 0,
+          "remark": "自筹"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "items": [
+        {
+          "day": "2022-03-22",
+          "count": 0,
+          "remark": "自筹"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "items": [
+        {
+          "day": "2022-03-22",
+          "count": 0,
+          "remark": "自筹"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "items": [
+        {
+          "day": "2022-03-22",
+          "count": 0,
+          "remark": "自筹"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "items": [
+        {
+          "day": "2022-03-22",
+          "count": 0,
+          "remark": "自筹"
+        }
+      ]
+    }
+  ],
+  "zhidutaizhang": [
+    {
+      "id": 1,
+      "type": "制度",
+      "number": "DEW/S13C202201",
+      "name": "工程建设部文件管理细则",
+      "publishDate": "2022-03-21",
+      "launchDate": "2022-03-21",
+      "remark": "",
+      "jingbanren": "",
+      "qianfa": ""
+    }
+  ],
+  "wenjiantaizhang": [
+    {
+      "id": 1,
+      "type": "文件",
+      "number": "DEW/F13C2022001",
+      "name": "关于东方江苏能源一期项目建设用地情况的报告的回函",
+      "publishDate": "2022-03-28",
+      "launchDate": "2022-03-28",
+      "remark": "",
+      "jingbanren": "",
+      "qianfa": ""
+    },
+    {
+      "id": 2,
+      "type": "纪要",
+      "number": "DEW/M13C2022001",
+      "name": "蓬莱叶片改主机方案讨论会 会议纪要",
+      "publishDate": "2022-03-30",
+      "launchDate": "2022-03-30",
+      "remark": "经办：张先林",
+      "jingbanren": "",
+      "qianfa": ""
+    },
+    {
+      "id": 3,
+      "type": "联系单",
+      "number": "DEW/C13C2022001",
+      "name": "通裕基地叉车采购事宜",
+      "publishDate": "2022-03-28",
+      "launchDate": "2022-03-28",
+      "remark": "刘源，OA，主送：交付中心",
+      "jingbanren": "",
+      "qianfa": ""
+    },
+    {
+      "id": "4",
+      "type": "联系单",
+      "number": "DEW/C13C2022002",
+      "name": "通裕基地主机工序外包寻源事宜",
+      "publishDate": "2022-03-29",
+      "launchDate": "2022-03-29",
+      "remark": "刘源，OA，主送：交付中心",
+      "jingbanren": "",
+      "qianfa": ""
+    }
+  ]
+}

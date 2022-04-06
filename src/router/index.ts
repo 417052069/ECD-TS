@@ -1,20 +1,43 @@
 import { createRouter, createWebHashHistory, RouteRecordRaw } from 'vue-router'
 import HomeView from '../views/HomeView.vue'
+import ToDoLists from '../components/ToDolists.vue'
+import AddList from '../components/AddList.vue'
+import ListDetail from '../components/ToDoList/ListDetail.vue'
+import MachineAccount from '../components/MachineAccount.vue'
+import MongoDbLists from '../components/MongoDbLists.vue'
 
 const routes: Array<RouteRecordRaw> = [
   {
     path: '/',
     name: 'home',
-    component: HomeView
+    component: HomeView,
+    children:[]
   },
   {
-    path: '/about',
-    name: 'about',
-    // route level code-splitting
-    // this generates a separate chunk (about.[hash].js) for this route
-    // which is lazy-loaded when the route is visited.
-    component: () => import(/* webpackChunkName: "about" */ '../views/AboutView.vue')
-  }
+    path: '/lists',
+    name: 'todolists',
+    component: ToDoLists
+  },
+  {
+    path: '/addlist',
+    name: 'AddList',
+    component: AddList
+  },
+  {
+    path: '/lists/:id',
+    name: 'ListDetail',
+    component: ListDetail
+  },
+  {
+    path: '/machineaccount',
+    name: 'MachineAccount',
+    component: MachineAccount
+  },
+  {
+    path: '/mongodbLists',
+    name: 'MongoDbLists',
+    component: MongoDbLists
+  },
 ]
 
 const router = createRouter({
